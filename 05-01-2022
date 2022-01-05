@@ -35,3 +35,8 @@ private: Disponível apenas na classe atual.
 
 *********************************************************************************************************************************************************************************
 
+Como acessar e alterar campos de um objeto
+Valores padrões de campos de classes
+Tipos de referência e tipos de valor
+Inicialização de campos
+Como funciona a atribuição de uma referência à uma variável
