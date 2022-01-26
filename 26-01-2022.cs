@@ -63,3 +63,20 @@ class TestPerson
 // Sarah Jones
 
 
+public readonly struct Coords
+{
+    public Coords(double x, double y)
+    {
+        X = x;
+        Y = y;
+    }
+
+    public double X { get; init; }
+    public double Y { get; init; }
+
+    public override string ToString() => $"({X}, {Y})";
+}
+
+Esses tipos de soluções foram usados no software por meio século. O conceito de delegado de linguagem C# fornece suporte de linguagem de primeira classe e segurança de tipos em torno do conceito.
+
+Como você verá mais adiante nesta série, o código C# que você escreve para algoritmos como esse é tipo seguro e usa as regras de linguagem e o compilador para garantir que os tipos correspondam a argumentos e tipos de retorno.
