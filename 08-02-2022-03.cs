@@ -1,0 +1,10 @@
+Uma matriz é uma sequência de elementos de dados individuais que pode ser acessada por meio de um único nome de variável. Use um índice numérico baseado em zero para acessar cada elemento de uma matriz. Como você verá, as matrizes permitem coletar dados semelhantes com uma finalidade ou características em comum em uma única estrutura de dados para facilitar o processamento.
+
+********************************************************************
+Determinar se você precisa de um pacote
+Como você sabe se precisa de um pacote para seu projeto? Trata-se de uma pergunta complicada que envolve alguns fatores:
+
+Obter um código melhor. Pondere se você está lidando com uma tarefa como garantir a segurança, por exemplo, e está tentando implementar a autenticação e a autorização. Trata-se de uma tarefa em que você precisa acertar para proteger seus dados e os dados de seus clientes. Há padrões e bibliotecas disponíveis que são usados por vários desenvolvedores. Essas bibliotecas implementam recursos que provavelmente sempre serão necessários. E os problemas são corrigidos à medida que surgem. Use essas bibliotecas em vez de criar as suas. Não é provável que você chegue a um resultado tão bom escrevendo o código por conta própria porque há muitos casos de borda que você precisa considerar.
+Economizar tempo. Provavelmente, você poderia criar por conta própria a maioria dos itens, como bibliotecas de utilitários ou de componentes da interface do usuário. Mas isso leva tempo. Mesmo que o resultado seja comparável ao que já está disponível, não é um bom uso do seu tempo replicar o trabalho de escrever esse código quando você não precisa fazer isso.
+Manutenção. Todas as bibliotecas e aplicativos precisam de manutenção mais cedo ou mais tarde. Essa manutenção envolve adicionar novos recursos e corrigir bugs. Cuidar da manutenção de uma biblioteca é um bom uso de seu tempo ou do tempo de sua equipe? Ou é melhor deixar uma equipe de software livre cuidar disso?
+**************************************************************************
