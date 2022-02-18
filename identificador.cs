@@ -1,0 +1,4 @@
+Um identificador é o nome que você atribui a um tipo (classe, interface, struct, delegado ou enumerado), membro, variável ou namespace. Os identificadores válidos devem seguir estas regras:
+
+Os identificadores devem começar com uma letra ou _.
+Os identificadores podem conter caracteres de letra Unicode, caracteres de dígito decimal, caracteres de conexão Unicode, caracteres de combinação Unicode ou caracteres de formatação Unicode. Para obter mais informações sobre as categorias Unicode, consulte o Banco de dados da categoria Unicode. É possível declarar identificadores que correspondem às palavras-chave em C# usando o prefixo @ no identificador. O @ não faz parte do nome do identificador. Por exemplo, @if declara um identificador chamado if. Esses identificadores textuais são destinados principalmente para interoperabilidade com os identificadores declarados em outras linguagens.
